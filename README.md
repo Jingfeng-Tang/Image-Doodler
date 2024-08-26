@@ -9,6 +9,8 @@ It can help to observe the changes in the class activation map in different mask
 ## step 1: open an image
 ![Image Text](open.PNG)
 ## step 2: doodle any region of the image
+You can adjust the pen color using the 'Set Pen Color' option and change the pen width with the 'Set Pen Width' option.  
+
 ![Image Text](paint.PNG)
 ## step 3: save mask
 doodle region:0.0, other region:1.0  
