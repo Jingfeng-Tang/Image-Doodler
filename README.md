@@ -5,4 +5,4 @@ a tool for generating image masks
 ## step 2: doodle any region of the image
 ![Image Text](paint.PNG)
 ## step 3: save mask
-![Image Text](mask.PNG)
+![Image Text](mask.png)
