@@ -11,4 +11,5 @@ It can help to observe the changes in the class activation map in different mask
 ## step 2: doodle any region of the image
 ![Image Text](paint.PNG)
 ## step 3: save mask
+doodle region:0., other region:1.
 ![Image Text](mask.png)
