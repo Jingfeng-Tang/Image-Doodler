@@ -1,5 +1,5 @@
 # Image-Doodler
-Motivated by [BAS](https://arxiv.org/pdf/2309.12943v1), I designed this tool to generate a mask that occludes arbitrary regions (semantic features) of the image.
+Motivated by [BAS](https://arxiv.org/pdf/2309.12943v1), I designed [Image-Doodler](https://github.com/Jingfeng-Tang/Image-Doodler) to generate a mask that occludes arbitrary regions (semantic features) of the image.
 It can help to observe the changes in the class activation map in different masking situations.
 
 ## Download executable file
